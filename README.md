@@ -1,3 +1,4 @@
+
 # こんにちは 👋
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -90,27 +91,29 @@ My name is **Raghav Agrawal**.
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav1701&theme=default&hide_border=true" alt="Divyansh Falodiya's Github Stats">
 </p>
 
-<br>
 
 
 ## 🧑‍🤝‍🧑 Let's connect!
 
+<center>
 <a href="https://google.com">
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+&emsp;
 <a href="https://google.com">
   <img width=50 src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
+&emsp;
 <a href="mailto:raghav170101@gmail.com">
   <img width=50 src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" />
 </a>
 
-<br>
+
 <br>
 
 *Having reached until here, I believe you would love to have a look at my [Portfolio](https://divyanshf.herokuapp.com) too.*
 
-<hr/>
+<hr/></center>
 
 👋 さようなら！
 
