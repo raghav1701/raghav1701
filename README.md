@@ -24,8 +24,7 @@ My name is **Raghav Agrawal**.
  </table>
  
 ## 🔥 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=daa520&icon_color=daa520&text_color=303030&bg_color=0,0,0" alt="Divyansh Falodiya's Github Stats">
+  <img src="(https://github-readme-stats.vercel.app/api?username=raghav1701&theme=radical&show_icons=true&hide_border=true&count_private=true)" alt="Raghav Github Stats">
 </p>
 
 ## 🧑‍🤝‍🧑 Let's connect!
