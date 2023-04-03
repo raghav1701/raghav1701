@@ -86,9 +86,9 @@ My name is **Raghav Agrawal**.
  
 ## 🔥 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav1701&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Divyansh Falodiya's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghav1701&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Raghav's Github Stats">
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav1701&theme=default&hide_border=true" alt="Divyansh Falodiya's Github Stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav1701&theme=default&hide_border=true" alt="Raghav's Github Stats">
 </p>
 
 
