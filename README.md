@@ -5,7 +5,7 @@
 
 My name is **Raghav Agrawal**.
 - 👨‍🎓 I am a **Computer Science** Student.
-- 🗼Currently in **Tokyo, Japan** for a SDE Intern
+- 🗼Currently in **Tokyo, Japan** working as a Software Developer.
 - 💻 I like to build softwares / applications for common use as well as fun.
 - 🧰 I primarily work on **Full Stack Development**.
 - 📱I am also a **Native Android Developer**.
