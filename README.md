@@ -46,7 +46,6 @@ My name is **Raghav Agrawal**.
     <td align="center">MongoDB</td>
     <td align="center">Elasticsearch</td>
     <td align="center">Firestore</td>
-    <td align="center">Room</td>
   </tr>
  </table>
  
