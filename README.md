@@ -5,7 +5,7 @@
 
 My name is **Raghav Agrawal**.
 - 👨‍🎓 I am a **Masters Student of Information Technology.**
-- 🗼 I have 18 months of experience as a Currently in **Software Developer.**
+- 🗼 I have 18 months of experience as a **Software Developer** with International Internship.
 - 💻 I like to build softwares / applications for common use as well as fun.
 - 🧰 I primarily work on **Javascript Full Stack Development**.
 - 🤖 I am a **Machine Learning** enthusiast too.
