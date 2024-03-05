@@ -1,14 +1,13 @@
 
-# こんにちは 👋
+# Hello 👋
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 My name is **Raghav Agrawal**.
-- 👨‍🎓 I am a **Computer Science** Student.
-- 🗼Currently in **Tokyo, Japan** working as a Software Developer.
+- 👨‍🎓 I am a **Masters Student of Information Technology.**
+- 🗼 I have 18 months of experience as a Currently in **Software Developer.**
 - 💻 I like to build softwares / applications for common use as well as fun.
-- 🧰 I primarily work on **Full Stack Development**.
-- 📱I am also a **Native Android Developer**.
+- 🧰 I primarily work on **Javascript Full Stack Development**.
 - 🤖 I am a **Machine Learning** enthusiast too.
 - 🧾 Published a research paper in <a href="https://ieeexplore.ieee.org/document/9808012">**IEEE International Conference.**</a>
 
